@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException 
 from selenium.webdriver.common.keys import Keys
-import pyautogui
 import time
 
 driver = webdriver.Chrome('C:\chrome\chromedriver.exe')
