@@ -2,7 +2,6 @@
 
 A aplicação acessa o google maps, realiza uma pesquisa e captura os dados de cada resultado da pesquisa.
 
-Projeto >> E-book Web Scraping - Hands on
 ## Requisitos para executar a aplicação em seu computador
 1. Web Driver do Google Chrome - [ChromeDriver](http://chromedriver.chromium.org/downloads)
 2. Python 3.7
